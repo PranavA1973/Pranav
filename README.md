@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav&show_icons=true&locale=en&layout=compact" alt="Pranav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav A&show_icons=true&locale=en" alt="Pranav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavA&show_icons=true&locale=en" alt="Pranav" /></p>
